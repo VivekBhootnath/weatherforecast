@@ -1,0 +1,76 @@
+.App-header {
+  /* background-color: #282c34; */
+  background-image: url('../public/wbg1.jpg');
+  background-size: cover;
+  min-height: 90vh;
+  width: 40%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  /* justify-content: center; */
+  font-size: calc(10px + 2vmin);
+  color: white;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px;
+  border-style:ridge;
+  border-width: 15px;
+  border-radius: 40px;
+  border-color: rgb(94, 95, 95);
+  padding: 0%;
+  z-index: 2;
+}
+
+.weathhead{
+  font-family:'Times New Roman', Times, serif;
+  text-shadow: 6px 12px 5px black;
+}
+
+
+form{
+  width: 75%;
+}
+form input{
+  width:70%;
+  height: 30px;
+  font-size: large;
+  box-shadow: 6px 12px 5px black;
+  border-radius: 6px;
+}
+form button{
+  height: 34px;
+  margin-left: 15px;
+  box-shadow: 6px 12px 5px black;
+  border-radius: 6px;
+}
+
+
+
+.winfo{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  margin-top: 40px;
+  margin-bottom: 40px;
+  text-shadow: 6px 12px 4px black;
+}
+.winfo span{
+  color: rgb(233, 248, 100);
+}
+
+.welement{
+ font-family: Georgia, 'Times New Roman', Times, serif;
+ margin-top: 15px;
+ /* background-color: rgb(0, 0, 0, 0.6); */
+ text-shadow: 6px 12px 4px black;
+}
+
+@media only screen and (max-width: 800px) {
+  .App-header {
+    width: 80%;
+  }
+  
+
+}
+  
+
+
+
