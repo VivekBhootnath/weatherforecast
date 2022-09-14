@@ -59,7 +59,7 @@ form button{
 .welement{
  font-family: Georgia, 'Times New Roman', Times, serif;
  margin-top: 15px;
- /* background-color: rgb(0, 0, 0, 0.6); */
+ background-color: rgb(0, 0, 0, 0.6);
  text-shadow: 6px 12px 4px black;
 }
 
