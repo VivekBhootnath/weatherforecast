@@ -1,6 +1,6 @@
 .App-header {
-  /* background-color: #282c34; */
-  background-image: url('../public/wbg1.jpg');
+  background-color: #282c34;
+/*   background-image: url('../public/wbg1.jpg'); */
   background-size: cover;
   min-height: 90vh;
   width: 40%;
