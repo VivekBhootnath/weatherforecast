@@ -2,6 +2,7 @@
   background-color: #282c34;
 /*   background-image: url('../public/wbg1.jpg'); */
   background-size: cover;
+  background-position: center;
   min-height: 90vh;
   width: 40%;
   display: flex;
